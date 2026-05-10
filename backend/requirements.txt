@@ -9,5 +9,5 @@ numpy
 soundfile
 librosa
 ffmpeg-python
-google-genai
+groq
 requests
